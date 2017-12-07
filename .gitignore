@@ -99,3 +99,16 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+#Files
+*.png
+*.jpg
+*.bmp
+
+#Folders
+.idea/
+Output/
+pretrained/
+train/
+
